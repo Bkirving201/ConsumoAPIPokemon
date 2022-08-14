@@ -9,3 +9,8 @@ Se logro crear las cartas correspondientes a la primera generación de pokemons 
 Se instalo por medio de NPM el complemento denominado NES CSS el cual ofrece la fuente y el tipo de Pixel Art utilizado 
 
 https://nostalgic-css.github.io/NES.css/
+
+Se hizo la actualización de las tarjetas agregando imagen superior quedando en las actuales cartas
+
+![image](https://user-images.githubusercontent.com/86727411/184557381-04448f31-5a22-40a7-9d15-ff0e704abc00.png)
+
